@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534709798082",
+    "project_id": "jinja-brew-crew",
+    "storage_bucket": "jinja-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534709798082:android:197af0497d932e7b86675b",
+        "android_client_info": {
+          "package_name": "com.jiteshgosar.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534709798082-gkck4c12fa58c24o0qjuhds2vdkn7lp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgDPkr1Gf50fbOUEOCCmrf8zsgeGS72c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534709798082-gkck4c12fa58c24o0qjuhds2vdkn7lp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
